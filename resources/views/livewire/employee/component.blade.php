@@ -9,7 +9,7 @@
                     <a href="javascript:void(0)" class="btn btn-warning" data-toggle="modal"
                         data-target="#theModal">Agregar</a>
                 </ul>
-                {{-- Cambio de Prueba Commit --}}
+                {{-- Cambio de Prueba Commit  ss--}}
                {{-- <h6>{{ date('Y-m-d H:i:s') }}</h6> muestra hora de sistema--}}
             </div>
             @include('common.searchbox')
