@@ -16,6 +16,7 @@ class EmployeeController extends Component
     use withPagination;
     use withFileUploads;
 
+    //jdhdghd
     public $ci, $name, $lastname, $genero, $dateNac, $address, $phone, $dateAdmission, $areaid, $selected_id;
     public $pageTitle, $componentName, $search;
     public $details, $sumDetails, $countDetails, $saleId;
